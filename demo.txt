@@ -1,6 +1,23 @@
+<<<<<<< HEAD
 "Learning git!!"
 "lightoflife" 
 
 
 
 
+=======
+"Learning git!"
+echo "to the day which ever begined and to the night e=that never ended
+<p>
+its a sky of million starts not the world of mess where i belong to</P>
+ <p> and i thought i was at correct place"</p><p>i wonder i was wrong now i found the right</p>
+ <p>A million lights ago i met you like a sea meets land so far as so close</p>
+ <p>its after a decade or first time i met my self </P><p>how lately i was finding me in the world where 
+ i dosent belong to where i never leaved where i was never was</p>
+ <p>how glad i am i met me at starts of my own sky that was build for me that was waiting for me</p>
+ <p>the croud doesnt look crowded anymore ,the noise isnt nosy any more the darkness isnt darker amymore
+  because i found the corner of me in the croud which isnt croded,i found the light which isnt dark,i found
+   i silence which is calm and i found it in me and it ws always in me waiting to be found <p>
+   <p>and here the 
+   new begining to the day which ever biggined and to the night that never end's.</p>
+>>>>>>> a50b9551bac2559dd72035a36265fd22ae792fd3
